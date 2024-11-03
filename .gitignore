@@ -32,7 +32,12 @@
 *.app
 
 #these are dependencies
-./libraries
+libraries/
+libraries/**
+libraries/**/*
 
 #these are the compiled files
-./bin
+bin/
+build/
+
+datasets/
